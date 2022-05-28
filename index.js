@@ -68,7 +68,6 @@ const secondUser = {
 const users = [];
 users.push(firstUser);
 users.push(secondUser);
-console.log(users);
 
 // ! JANGAN MODIFIKASI LINE DI BAWAH
 function main() {
