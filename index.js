@@ -34,7 +34,7 @@ const firstUser = {
 
 };
 const secondUser = {
-    nama: "Wendy",
+    name: "Wendy",
     gender: "Male",
     age: 23,
     email: "wendy@dingdong.com",
